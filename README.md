@@ -1,5 +1,6 @@
 Skills / Languages:
 ---
+* linux    `good`
 * Python   `good`
 * Django   `intro`
 * Git      `good`
