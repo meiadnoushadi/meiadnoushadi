@@ -2,9 +2,9 @@ Skills / Languages:
 ---
 * linux    `good`
 * Python   `good`
+* Django   `intro`
 * php      `good`
 * javascript  `good`
-* Django   `intro`
 * Git      `good`
 * Git-flow `middle`
 
