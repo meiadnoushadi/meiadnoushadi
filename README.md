@@ -11,5 +11,5 @@
 
 > Web frameworks and technologies :point_right: `Node.js(Beginner)` , `React.js(Beginner)` , `Django(medium)`
 ---
-> **links**  [LinkedIn](https://www.linkedin.com/mwlite/in/meiadnoushadi) , [Twitter](https://twitter.com/meiadnoushadi) , , [medium](https://medium.com/@meiadnoushadi) , [Hackerone](https://hackerone.com/meiad_csh)
+> **links**  [LinkedIn](https://www.linkedin.com/mwlite/in/meiadnoushadi) , [Twitter](https://twitter.com/meiadnoushadi) , [medium](https://medium.com/@meiadnoushadi) , [Hackerone](https://hackerone.com/meiad_csh)
 
