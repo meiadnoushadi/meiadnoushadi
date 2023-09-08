@@ -7,7 +7,7 @@
 
 > VSC :point_right: `Git(medium)`
 
-> Platform as a service products :point_right: `Docker(medium)`
+> Platform :point_right: `Docker(medium)`
 
 > Databases :point_right: `MySQL(medium)` , `MongoDB(medium)`
 
