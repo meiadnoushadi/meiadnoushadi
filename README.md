@@ -33,6 +33,8 @@
 ###
 ---
 > `Linux(LPIC-1) ` , `Python(MidLevel+)` , `Javascript(Junior)` , `PHP(Beginner)` , `GoLang(Beginner)` , `Git(MidLevel+)` , `Docker(Junior)` , `MySQL(Junior)` , `MongoDB(Junior)` , `Node.js(Beginner)` , `React.js(Beginner)` , `Django(Junior)`
+
+> `I'm constantly improving myself ...`
 ---
 
 <p align="left"></p>
