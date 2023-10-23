@@ -13,8 +13,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="go logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
@@ -23,7 +21,7 @@
 
 ###
 ---
-> `Linux(LPIC-1) ` , `Python(MidLevel+)` , `Javascript(Junior)` , `PHP(Beginner)` , `GoLang(Beginner)` , `Git(MidLevel+)` , `Docker(Junior)` 
+> `Linux(LPIC-1) ` , `Python(MidLevel+)` , `Javascript(Junior)` , `PHP(Beginner)` , `Git(MidLevel+)` , `Docker(Junior)` 
 
 > `I'm constantly improving myself ...`
 ---
